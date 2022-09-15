@@ -9,5 +9,5 @@
 I'm a full stack developer...
 
 
-![Logo](./coding.gif)
+![Logo](./snake.svg)
 
