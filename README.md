@@ -9,5 +9,5 @@
 I'm a full stack developer...
 
 
-![Logo](https://cdn.dribbble.com/users/37649/screenshots/14626312/media/f69c5165816937f36696aecbf429af15.gif)
+![Logo](./coding.gif)
 
